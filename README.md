@@ -50,7 +50,6 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 ```
 
 ## Images
-![initial-dash](./assets/images/employeetracker.jpg)
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
